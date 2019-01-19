@@ -1,3 +1,4 @@
+import { MyComponent } from './app.component.1';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
